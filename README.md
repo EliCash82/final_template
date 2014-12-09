@@ -1,4 +1,4 @@
-final_template
+CIS 3810 and CIS 3750 Final Project Template
 ==============
 
-This is the template for your final submissions
+To view the template for final submission click "template.html"
